@@ -1,0 +1,25 @@
+html{
+    height: 100%
+}
+body{
+    background-color: black;
+    min-height: 100%;
+}
+
+h1{
+    color: white;
+    font-size: 90px;
+    vertical-align: center;
+}
+
+
+nav{
+    color:white;
+}
+
+.si{
+    display: flex;
+    margin: 5%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
