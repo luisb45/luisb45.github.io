@@ -6,9 +6,9 @@ body{
     min-height: 100%;
 }
 
-h1{
+.name{
     color: white;
-    font-size: 90px;
+    font-size: 100px;
     vertical-align: center;
 }
 
@@ -19,7 +19,63 @@ nav{
 
 .si{
     display: flex;
-    margin: 5%;
+    margin: 10%;
     margin-top: 10%;
     margin-bottom: 20%;
+}
+
+li{
+    font-size: 20px;
+}
+
+.divMain {
+    height: 100%;
+    margin: 0 auto;
+    max-width: 70%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.about {
+    margin-left: 19%;
+    margin-right: 19%;
+    color: white;
+    font-size: 20px;
+    line-height: 170%;
+}
+
+.contact {
+    margin-left: 19%;
+    margin-right: 19%;
+    color: white;
+    font-size: 20px;
+    line-height: 170%;
+}
+
+.styleNav {
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    margin-right: 20px;
+}
+
+.styleP {
+    display: flex;
+    justify-content: center;
+}
+
+.styleh1 {
+    margin-left: 10%;
+    margin-right: 19%;
+    color: white;
+    font-size: 40px;
+    line-height: 170%;
+}
+
+#projects {
+    padding: 150px;
+}
+
+#contactMe {
+    margin-top: 55px;
 }
