@@ -40,8 +40,9 @@ li{
     margin-left: 19%;
     margin-right: 19%;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     line-height: 170%;
+    margin-top: 35px;
 }
 
 .contact {
@@ -65,11 +66,11 @@ li{
 }
 
 .styleh1 {
-    margin-left: 10%;
-    margin-right: 19%;
+    text-align: center;
     color: white;
     font-size: 40px;
     line-height: 170%;
+    
 }
 
 #projects {
